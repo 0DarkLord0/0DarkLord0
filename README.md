@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0DarkLord0
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning how to make a TikTok bot
+- 🌱 I’m currently learning how to make a TikTok bot and other bots to see if I know how to code bots and stuff.
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me tempemail0420p@gmail.com
 
